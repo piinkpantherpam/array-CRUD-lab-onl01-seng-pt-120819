@@ -40,6 +40,8 @@ def retrieve_element_from_index(array, index_number)
   
   puppies = ["Yorkshire Terrier", "Maltese", "Chocolate Lab", "Gordon Setter"]
   
+  puppies 
+  
 end
 
 def retrieve_first_element_from_array(array)
