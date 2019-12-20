@@ -40,7 +40,7 @@ def retrieve_element_from_index(array, index_number)
   
   puppies = ["Yorkshire Terrier", "Maltese", "Chocolate Lab", "Gordon Setter"]
   
-  puppies 
+  puppies[2]
   
 end
 
